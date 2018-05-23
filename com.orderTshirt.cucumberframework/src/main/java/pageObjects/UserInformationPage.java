@@ -52,7 +52,7 @@ WebDriver driver;
 	}
 	public void validateUserInfoUpdated(){
 		if(Message_success.isDisplayed()){
-			System.out.println("The user information has been updated successfully");
+			System.out.println("The user information update has been successful");
 		}
 	}
 	public void updatePersonalInfo(){

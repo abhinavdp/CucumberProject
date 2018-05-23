@@ -61,11 +61,7 @@ public class ProductSelectionPage {
 		
 	public void selectProduct() throws Exception {
 		chkSelectionPage();
-		isProductDisplayed();
-		
+		isProductDisplayed();		
 		
 	}
-	
-	
-	
 }
