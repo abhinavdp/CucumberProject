@@ -27,12 +27,5 @@ public class Hooks {
 		paymentpage = testContext.getPageObjectManager().getPaymentPage();
 		productselectionpage = testContext.getPageObjectManager().getProductSelectionPage();
 		userinformationpage = testContext.getPageObjectManager().getUserInformationPage();
-	}
- 
-	//@Before
-	//public void BeforeSteps() {
-	//	testContext.getWebDriverManager();
-	//}
- 
-	
+	}	
 }
